@@ -1,0 +1,1 @@
+# beppu_onsen_app
