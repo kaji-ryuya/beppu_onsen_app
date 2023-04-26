@@ -21,6 +21,7 @@
   ・子供の入浴可否を表示。条件合致の中から、調べられるようにする。
   ・GoogleMapsAPIを活用。現在地からの距離順でリスト化。（宿泊客も視野）
   ・その温泉に行った！行ってみたい！機能
+  ・行った！ボタンを押した温泉をリストで見れる、ブックマーク機能
   ・行ってみたい、行った数でランキング化
   ・ログイン機能（以下、ログインユーザーのみ）
     ・お気に入り機能
@@ -48,3 +49,6 @@ README~ER図作成 ~4/27
 
 ■ 画面遷移図(figmaリンク)
 https://www.figma.com/file/K7h1aX4RNsBKuFwsuDkxL1/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=BrlPxAMR5ffSWACU-1
+
+■ ER図(draw.ioのリンク)
+https://app.diagrams.net/#G1pWk9zdB5H8GVxfi31FP8eprPLlU5iili
