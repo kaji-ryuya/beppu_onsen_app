@@ -51,4 +51,4 @@ README~ER図作成 ~4/27
 https://www.figma.com/file/K7h1aX4RNsBKuFwsuDkxL1/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=BrlPxAMR5ffSWACU-1
 
 ■ ER図
-image.png
+https://gyazo.com/5bbc03b4e07e8b9e9af760adf6f965f5
