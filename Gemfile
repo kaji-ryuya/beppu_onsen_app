@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.7'
 # UI/UX
 gem 'rails-i18n'
 gem 'bootstrap', '4.3.1'
+gem 'jquery-rails'
 
 gem 'slim-rails'
 
