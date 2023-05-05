@@ -1,0 +1,11 @@
+table
+  thead
+    tr
+      th 温泉名
+      th 泉質
+      th 住所
+      th 定休日
+      th 営業時間
+
+  - spas.each do |spa|
+    = render 'shared/spa_item', spa: spa
